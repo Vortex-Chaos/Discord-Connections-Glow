@@ -3,7 +3,7 @@
   * @helped create this: kyuuhachi, Madeline#3336, huderon, cheesesamwich, callme_h
 
 */
-.connectedAccountContainer__23f00:hover:has([aria-label="Spotify"]) .connectedAccountNameText__00810 {
+.connectedAccountContainer__23f00:hover:has([aria-label="Spotify"]) + .connectedAccountNameText__00810 {
   color: #1DB954;
 }
 .connectedAccountContainer__23f00:hover:has([aria-label="Twitch"]) {
