@@ -1,3 +1,7 @@
+/**
+  * @name Discord Connections Glow
+  * @helped create this kyuuhachi, Madeline#3336, huderon, cheesesamwich
+*/
 .connectedAccountContainer__23f00:hover:has([aria-label="Spotify"]) {
   color: #1DB954;
 }
