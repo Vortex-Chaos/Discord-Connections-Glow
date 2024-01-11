@@ -1,0 +1,81 @@
+.connectedAccountContainer__23f00:hover:has([aria-label="Spotify"]) {
+  color: #1DB954;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Twitch"]) {
+  color: #9146FF;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="YouTube"]) {
+ color: #FF0000;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Reddit"]) {
+  color: #FF4500;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="PayPal"]) {
+  color: #00457C;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="TikTok"]) {
+ color: #ff0050;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Steam"]) {
+  color: #66c0f4;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Crunchyroll"]) {
+  color: #F47521;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="eBay"]) {
+  color: #F5AF02;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Xbox"]) {
+  color:  #2ca243;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="Battle.net"]) {
+  color: #0290ff;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="PlayStation Network"]) {
+  color: #006FCD;
+}
+.userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__23f00:hover:has([aria-label="Epic Games"]) {
+  color: black;
+}
+.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__23f00:hover:has([aria-label="Epic Games"]) {
+  color: white;
+}
+.connectedAccountContainer__23f00:hover:has([aria-label="GitHub"]) {
+  color: #8153c5;
+  }
+.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__23f00:hover:has([aria-label="X"]) {
+  color: white;
+  }
+  .userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__23f00:hover:has([aria-label="X"]) {
+  color: black;
+  }
+.connectedAccountContainer__23f00:hover:has([aria-label="League of Legends"]) {
+    color: #CEA146;
+  }
+.connectedAccountContainer__23f00:hover:has([aria-label="Twitter"]) {
+   color: #08a0e9;
+  }
+  .connectedAccountContainer__23f00:hover:has([aria-label="Instagram"]) {
+   color: #C13584;
+  }
+.connectedAccountContainer__23f00:hover:has([aria-label="Riot Games"]) {
+   color: #ea0029;
+  }
+.userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__23f00:hover:has([aria-label="Domain"]) {
+   color: black;
+  }
+.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__23f00:hover:has([aria-label="Domain"]) {
+   color: white;
+  }
+.connectedAccountContainer__23f00:hover:has([aria-label="Skype"]) {
+    color: #00AFF0;
+  }
+.connectedAccountContainer__23f00:hover:has([aria-label="Facebook"]) {
+    color: #0866FF;
+  }
+.connectedAccountContainer__23f00:hover {
+    color: white;
+    border-radius: 3px;
+    border: 1px solid currentColor;
+    box-shadow: 0px 0px 10.9px 1px currentColor;
+}
