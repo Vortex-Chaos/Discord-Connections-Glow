@@ -103,3 +103,16 @@
     border: 1px solid currentColor;
     box-shadow: 0px 0px 10.9px 1px currentColor;
 }
+.connectedAccountContainer__23f00 {
+  transition: all 0.25s ease;
+}
+.connectedAccountContainer__23f00:hover .connectedAccountNameText__00810 {
+  color: rgb(255, 0, 0);
+  background-clip: text;
+  animation: fadeInOut 0.25s ease, rainbowText 5s linear infinite 0.25s;
+}
+
+.connectedAccountContainer__23f00 .connectedAccountNameText__00810 {
+  color: white;
+  transition: all 0.5s ease;
+}
