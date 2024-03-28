@@ -51,20 +51,20 @@
 .connectedAccountContainer__5972d:hover:has([aria-label="PlayStation Network"]) {
   color: #006FCD !important;
 }
-.userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="Epic Games"]) {
+.profileColors_ac6ab4:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="Epic Games"]) {
   color: black !important;
 }
-.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="Epic Games"]) {
+.profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="Epic Games"]) {
   color: white !important;
 }
 .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) .connectedAccountNameText__7abc2,
 .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) {
   color: #8153c5 !important;
   }
-.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
+.profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
   color: white !important;
   }
-.userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
+.profileColors_ac6ab4:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
   color: black !important;
   }
 .connectedAccountContainer__5972d:hover:has([aria-label="League of Legends"]) .connectedAccountNameText__7abc2,
@@ -83,10 +83,10 @@
 .connectedAccountContainer__5972d:hover:has([aria-label="Riot Games"]) {
    color: #ea0029 !important;
   }
-.userProfileOuter__46bb7:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="Domain"]) {
+.profileColors_ac6ab4:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="Domain"]) {
    color: black !important;
   }
-.userProfileOuter__46bb7:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="Domain"]) {
+.profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="Domain"]) {
    color: white !important;
   }
 .connectedAccountContainer__5972d:hover:has([aria-label="Skype"]) .connectedAccountNameText__7abc2,
