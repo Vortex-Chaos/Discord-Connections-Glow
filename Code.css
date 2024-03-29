@@ -59,7 +59,7 @@
 }
 .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) .connectedAccountNameText__7abc2,
 .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) {
-  color: #8153c5 !important;
+  color: #fcfaff !important;
   }
 .profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
   color: white !important;
