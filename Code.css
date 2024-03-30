@@ -57,9 +57,11 @@
 .profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="Epic Games"]) {
   color: white !important;
 }
-.connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) .connectedAccountNameText__7abc2,
-.connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) {
-  color: #8153c5 !important;
+.profileColors_ac6ab4:where(.theme-light) .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) {
+   color: black !important;
+  }
+.profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="GitHub"]) {
+   color: white !important;
   }
 .profileColors_ac6ab4:where(.theme-dark) .connectedAccountContainer__5972d:hover:has([aria-label="X"]) {
   color: white !important;
