@@ -33,6 +33,9 @@
   --domain-color-dark: white;
   --skype-color: #00AFF0;
   --facebook-color: #0866FF;
+  --Bungienet-color-dark: white;
+  --Bungienet-color-light: black;
+  --Amazon-Music-color: #46CED7;
 }
 
 [class^=connectedAccountContainer__]:hover:has([aria-label="Spotify"]) [class*=connectedAccountNameText__],
@@ -123,6 +126,12 @@
 [class*=profileColors_]:where(.theme-dark) [class^=connectedAccountContainer__]:hover:has([aria-label="Domain"]) {
    color: var(--domain-color-dark) !important;
   }
+[class*=profileColors_]:where(.theme-light) [class^=connectedAccountContainer__]:hover:has([aria-label="Bungie.net"]) {
+   color: var(--Bungienet-color-light) !important;
+  }
+[class*=profileColors_]:where(.theme-dark) [class^=connectedAccountContainer__]:hover:has([aria-label="Bungie.net"]) {
+   color: var(--Bungienet-color-dark) !important;
+  }
 [class^=connectedAccountContainer__]:hover:has([aria-label="Skype"]) [class*=connectedAccountNameText__],
 [class^=connectedAccountContainer__]:hover:has([aria-label="Skype"]) {
     color: var(--skype-color) !important;
@@ -130,6 +139,10 @@
 [class^=connectedAccountContainer__]:hover:has([aria-label="Facebook"]) [class*=connectedAccountNameText__],
 [class^=connectedAccountContainer__]:hover:has([aria-label="Facebook"]) {
     color: var(--facebook-color) !important;
+  }
+[class^=connectedAccountContainer__]:hover:has([aria-label="Amazon Music"]) [class*=connectedAccountNameText__],
+[class^=connectedAccountContainer__]:hover:has([aria-label="Amazon Music"]) {
+    color: var(--Amazon-Music-color) !important;
   }
 /* change the glow effect here */
 [class^=connectedAccountContainer__]:hover {
